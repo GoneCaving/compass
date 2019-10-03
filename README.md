@@ -2,6 +2,7 @@
 
 __Compass__ is an asynchronous looper for Monome Norns built around the concept of a command sequencer. Commands (assigned per step in the bottom row of the `EDIT` page) modulate sequence, recording, playback and looping behaviors. 
 
+Duncan has modified the README!
 -----
 
 __*Input Routing & Recording*__
